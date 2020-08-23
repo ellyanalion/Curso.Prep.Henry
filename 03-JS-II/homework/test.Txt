@@ -1,0 +1,24 @@
+test.Txt
+
+* `for`:Bucle for, es una estructura de texto que nos permite
+recorrer y comprobar el contenido de una lista, al evaluar
+la expresión imprime lo que se le ordena, en caso de que no 
+se puedan evaluar más valores se detiene. contasta de tres 
+factores: declaración de una variable, expresión condicional 
+y forma de incremento.
+
+* `&&`: "And" ó "Y", es un operador lógico que permite evaluar
+si ambos factores cumplen con una característica, de ser así, va
+a arrojar true, de no ser así en AMBOS valores, va a ser false.
+
+* `||`: "OR" ó "Ó", es un operador lógico que permite evaluar
+si alguno de los dos factores cumplen con una característica, 
+de ser así, va a arrojar true pero en caso de que NINGÚN valor
+cumpla con dicha característica, va a ser false.
+
+* `!`: "NOT" o "NO", es un operador lógico de desigualdades,
+está disponible !== -que va a trabajar como la triple igualdad- 
+y si dos valores son identicos el "!==" va a arrojar falso, por
+ejemplo, 1===1//true ; 1!==1//false, es decir, hipoteticamente
+pregunta si 1 no es igual a 1 y por lógica eso es falso porque
+1 si es === 1.
