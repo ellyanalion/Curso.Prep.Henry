@@ -1,0 +1,31 @@
+test.Txt
+
+* Variables: es un lugar destinado a guardar información
+a la que luego podremos acceder "llamandola" (invocandola)
+por su nombre -el cual nosotros mismos le colocamos-.
+
+* Strings: es una cadena de carácteres, puede contener 
+valores numéricos, letras y símbolos. se describe usando
+comillas (" " ó ' ') y generalmente es el tipo de dato 
+usadopara la informaión qu ecntiene una variable.
+
+* Funciones (argumentos, `return`): son funcions los grupos
+de código que están disponible para luego ejecutar invocando
+la función por su nombre y el uso de (). Argmuentos (arg), 
+es la información que se le psa a la función para 'rellenar' 
+la información faltante para la ejecución de la función y 
+Return define que va a devolver la función, puede ser cualquier
+valor predeterminado, el resultado de la función o incluso
+los argumentos que le pasamos al inicio.
+
+* Declaraciones `if`: es una expresión lógica condicional, que
+permite definir si una situación es aceptable o no, según el
+resultado que arroje la "condición" la función se puede ejecutar
+o simplemente no hacerlo. 
+	
+* Valores booleanos (`true`, `false`): es un tipo de dato con 
+origen nativo de JS, no es una String, no se puede modificar
+o asignarsele otro valor y simplemente tiene dos posibles 
+presentacions: true (verdadero) y/ó false (falso). Puede ser
+el resultado de un `if`, de una operación matemática o se
+pueden forzar valores a que resulte true o false.
