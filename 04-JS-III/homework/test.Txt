@@ -1,0 +1,7 @@
+test.Txt
+
+* Arrays: o arreglos, es una estructura de datos, en la que podemos almacenar
+información en forma de lista, donde cada dato separado por una coma (,) ocupa
+un lugar que se puede "ubicar" por el subíndice que sea, es decir, por el 
+número de la aposicón que sea, teniendo en cuenta que se empieza a contar desde
+0. Puede contener todo tipo de información y será tan extenso como queramos.
