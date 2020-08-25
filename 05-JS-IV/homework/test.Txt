@@ -1,0 +1,28 @@
+test.Txt
+
+* Objetos: todo en JS es un objeto, es una versión de contenedor de datos,
+almacena mucha información sobre una cosa puntualmente, estos se definen 
+con llaves {}. Es una colleción de propiedades separadas por comas (,).
+
+* Propiedades: son un conjunto KeyValue, es decir, una clave, ue va a ser 
+el nombre que recibe esa propiedad, y un valor, que es lo que contiene en
+si. Es una forma de almacenar datos para luego moldearlos o trabajarlos
+fácilmente, se invoca por el indentificador, que como dijimos será nombre
+que le determinemos al crearla y va al lado izquierdo de la igualdad, al lado 
+derecho va a estar su valor o contenido 'clave = valor'.
+
+* Métodos: es cuando una propiedad almacena una función, esa función ese 
+conjunto de claveFunción es a lo que se le llama método. 
+
+* Bucle `for…in`: es un tipo de bucle que recorre cada propiedad del objeto
+'for ... in loop', funciona similar a un bucle for pero debe contener una 
+variable entre paréntesis y la palabra clave 'in' y el nombre del objeto.
+
+* Notación de puntos vs notación de corchetes: Dot notation VS Bracket notation
+(por sus nombres en inglés), son dos formas de acceder a una propiedad,
+aunque funcionan igual en su versión más simple, la Dot notation (se describe 
+con un punto seguido del nombre de la propiedad), esta es muy literal, busca 
+ese valor y no acepta variables o recorrer el objeto, es más rápido de tipear 
+pero cuando se trate de acciones más complejas se deberá usar la braket notation
+(se describe con corchetes y comillas ['busqueda']), es más compleja de escribir,
+se va a usar para acciones más profundas.
