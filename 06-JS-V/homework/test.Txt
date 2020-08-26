@@ -1,0 +1,19 @@
+test.Txt
+
+* `prototype`: es una propiedad que tienen todos los objetos de JS,
+permite que los objetos herenden características entre sí, como 
+métodos y propiedades. Prototipo labora con New, es la forma de 
+invocar la function construida como prototipo y que así esta reciba
+la información con argumentos que luego bindea al objeto y lo retorna.
+
+* _Constructors_ (de Clases): es una plantilla que permite crear 
+objetos de datos con un modelo predefinido, esta función no retorna 
+y siempre se describe con la primera letra del nombre en mayúscula.
+De cierto modo ella define una información estandar que deba tener 
+un objeto, por lo menos en el caso de un celular, que tiene pantalla, 
+botones, corneta, micrófono como mínimo; pero esas características 
+pueden organizarse distinto, tener otras terminaciones estéticas y 
+funcionar mejor o peor en comparación a otros; un Constructora de 
+"celulares" me va a permitir describir cada NewObject -o nuevo 
+modelo o marca de celular- y almacenar la información del mismo,
+sabiendo que luego la puedo invocar por el nombre del modelo o marca.
