@@ -1,0 +1,6 @@
+test.Txt
+
+* Funciones Callback: es una función que se pasa a otra función en forma de argumento,
+que luego se invoca dentro de la función externa para ejecutar una acción, se ejecuta 
+de inmediato. Una función "equis" recibe a otra función por parámetro -el callback, 
+la función "equis" es la encargada de ejcutar ese CallBack.
